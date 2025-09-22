@@ -1,0 +1,2 @@
+# TraderX
+Automated trading pipeline
